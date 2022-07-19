@@ -1,0 +1,114 @@
+/* STYLE SECTIONING TAGS */
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  background-image: url("https://t4.ftcdn.net/jpg/01/72/02/95/360_F_172029551_6wjiNiU603g3mE3sSlX5MQtQZzmuj1Dg.jpg");
+  
+}
+
+/* STYLE TEXT */
+h1 {
+  font-style: italic;
+  color: #0d9c90;
+}
+
+h2 {
+  margin-top: 2em; 
+}
+
+/* STYLE FLEX CONTAINER */
+.question {
+  display: flex;
+  /* uncomment the next line to center the questions and answers */
+  /* justify-content: center; */
+  margin-top: 2em;
+}
+  
+/* STYLE FLEX ITEM */
+.answer-choice {
+  margin: 5px;
+}
+
+/* STYLE IMAGES */
+.answer-choice img {
+  height: 10em;
+}
+
+/* STYLE BUTTON */
+button { 
+  margin-top: 40px;
+  margin-left:300px;
+  margin-right:100px;
+  border: dotted 8px purple;
+  font-family: 'Oleo Script', cursive;
+  color:#0e6a7c;
+  font-size: 20px;
+}
+
+#title{
+  text-align: center;
+  font-family: 'Oleo Script', cursive;
+  color:purple;
+  font-size: 60px;
+}
+
+#titleImage{
+  margin-left: 470px;
+  margin-right: 500px;
+}
+
+#description{
+  text-align: center;
+  font-family: 'Oleo Script', cursive;
+  font-size: 25px;
+  color: #0e6a7c;
+}
+
+#disclaimer{
+  text-align: center;
+  color: black;
+  font-size:13px;
+}
+
+.questionzz{
+  color: purple;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Oleo Script', cursive;
+}
+
+#result{
+  text-align: center;
+  font-family: 'Oleo Script', cursive;
+  font-size: 20px;
+  color: #0e6a7c;
+}
+
+#justiceleaguee{
+  margin-left: 275px;
+}
+
+#avengerss{
+  margin-left: 270px;
+}
+
+#friendss{
+  margin-left: 290px;
+}
+
+#officee{
+  margin-left: 210px;
+}
+
+#petss{
+  margin-left: 275px;
+}
+
+#zootopiaa{
+  margin-left: 250px;
+}
+
+
+#restart{
+  margin-left: 595px;
+}
